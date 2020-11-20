@@ -1,1 +1,6 @@
-My first git project through the odin project
+#include <studio.h>
+
+int main(){
+
+    printf("Hello World!\n");
+}//main
